@@ -1,0 +1,21 @@
+
+2020-01-09 BPH
+
+I initialized this directory for git:
+
+git init .
+git add .
+git commit -m "First commit"
+git config --global user.name "Ben Holder"
+git config --global user.email holderbp@gmail.com
+
+and then uploaded this directory to a github repository:
+
+git remote add origin https://github.com/holderbp/hivgfp_tcd_teeeivgamma.git
+git remote -v
+git push
+git push -u origin master
+
+By following these instructions:
+
+https://help.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line
