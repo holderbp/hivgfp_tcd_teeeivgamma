@@ -1,0 +1,6 @@
+#!/bin/bash
+
+./hivgfp_tcd_teeeivgamma.py > /dev/null && \
+cp hivgfp_tcd_teeeivgamma.py ${HOME}/local/bin/hivgfp_tcd_teeeivgamma; \
+cp hivgfp_tcd_teeeivgamma.py ${HOME}/local/lib/mycode/python
+
